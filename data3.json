@@ -1,0 +1,18 @@
+{
+  "flavors": {
+    "github": {
+      "stable": {
+        "isUpdate": true,
+        "store": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.apppro",
+        "apk": "https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber.apppro",
+        "isShowAds": true,
+        "isShowAdsAdmobOpen": true,  
+        "timeShowAds": 3,
+        "isShowAdsAdmobBN": false,
+        "version": "1.19",
+        "version_code": 1019,
+        "version_code_4_4": 1019
+      }
+    }
+  }
+}
